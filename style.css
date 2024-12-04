@@ -1,0 +1,41 @@
+header{
+    background-color: hsl(147, 86%, 53%);
+    border: none;
+    margin: auto;
+    padding: 20px;
+
+}
+
+button{
+    background-color: hsl(124, 100%, 50%);
+    color: aliceblue;
+    font-weight: bold;
+    height: 36px;
+    width: 80px;
+    border: none;
+    cursor: pointer;
+    border-radius: 3px;
+    margin-right: 9px;
+    
+
+
+}
+
+.blog-button{
+    background-color: hsl(93, 91%, 60%);
+    color: aliceblue;
+    font-weight: bold;
+    height: 36px;
+    width: 177px;
+    border: none;
+    border-radius: 10px;
+}
+body{
+    background-color: hsl(0, 0%, 16%);
+    
+}
+
+h3{
+   color: aliceblue;
+}
+
