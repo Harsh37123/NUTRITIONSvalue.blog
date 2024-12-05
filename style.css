@@ -1,7 +1,4 @@
 
-img{
-    
-}
 
 button{
     background-color: hsl(124, 100%, 50%);
@@ -35,6 +32,8 @@ button{
     border: none;
     border-radius: 10px;
 }
+
+
 body{
     background-color: hsl(0, 0%, 16%);
     
