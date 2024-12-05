@@ -1,9 +1,6 @@
-header{
-    background-color: hsl(147, 86%, 53%);
-    border: none;
-    margin: auto;
-    padding: 20px;
 
+img{
+    
 }
 
 button{
@@ -17,9 +14,17 @@ button{
     border-radius: 3px;
     margin-right: 9px;
     
-
-
 }
+
+.blog-button:hover {
+   background-color: hsl(124, 100%, 68%);
+}
+
+
+.blog-button:active {
+   background-color: hsl(12, 88%, 53%);
+}
+
 
 .blog-button{
     background-color: hsl(93, 91%, 60%);
