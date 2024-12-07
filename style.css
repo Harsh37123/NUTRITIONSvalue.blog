@@ -1,45 +1,36 @@
-
+body {
+    background-color: black;
+}
+h1{
+    color: rgb(255, 255, 255);
+}
 
 button{
-    background-color: hsl(124, 100%, 50%);
-    color: aliceblue;
-    font-weight: bold;
-    height: 36px;
-    width: 80px;
+    background-color: hsl(123, 29%, 53%);
+    color: hsl(0, 0%, 100%);
     border: none;
+    height: 40px;
+    width: 106px;
+    margin-right: 30px;
+    margin-left: 30px;
+    border-radius: 8px;
     cursor: pointer;
-    border-radius: 3px;
-    margin-right: 9px;
-    
+    transition: 0.20s;
+
 }
 
-.blog-button:hover {
-   background-color: hsl(124, 100%, 68%);
+#button-1{
+    margin-left: 600px;
 }
 
+button:hover{
+    background-color: hsl(123, 59%, 43%);
+    }
 
-.blog-button:active {
-   background-color: hsl(12, 88%, 53%);
-}
+button:active{
+    background-color: hsl(123, 94%, 47%);
+}    
 
-
-.blog-button{
-    background-color: hsl(93, 91%, 60%);
+p{
     color: aliceblue;
-    font-weight: bold;
-    height: 36px;
-    width: 177px;
-    border: none;
-    border-radius: 10px;
 }
-
-
-body{
-    background-color: hsl(0, 0%, 16%);
-    
-}
-
-h3{
-   color: aliceblue;
-}
-
