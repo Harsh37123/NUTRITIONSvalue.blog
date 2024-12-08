@@ -1,7 +1,20 @@
 body {
     background-color: black;
+    border: none;
+    margin-left: 0%;
+    margin-right: 0%;
+    margin-top: 0%;
+    margin-bottom: 0%;
 }
 h1{
+    color: rgb(255, 255, 255);
+}
+
+h2{
+    color: rgb(255, 255, 255);
+}
+
+li{
     color: rgb(255, 255, 255);
 }
 
@@ -16,6 +29,7 @@ button{
     border-radius: 8px;
     cursor: pointer;
     transition: 0.20s;
+    float: left;
 
 }
 
@@ -33,4 +47,21 @@ button:active{
 
 p{
     color: aliceblue;
+}
+
+div{
+    background-color: hsl(80, 82%, 49%);
+}
+
+footer{
+    background-color: hsl(180, 1%, 38%);
+    color: aliceblue;
+    font-size: 12px;
+    margin-bottom: 0%;
+    padding-top: 10px;
+    padding-left: 550px;
+    padding-right: 100px;
+    padding-bottom: 10px;
+    margin-top: 0%;
+    
 }
